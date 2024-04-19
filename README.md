@@ -1,4 +1,4 @@
-[LaptopPricing.csv](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/files/15041039/LaptopPricing.csv)# Exploratory Data Analysis Project: Laptop Pricing Analysis
+# Exploratory Data Analysis Project: Laptop Pricing Analysis
 The Dataset is a filtered and modified dataset of the [Laptop Price Prediction using specifications](https://www.kaggle.com/datasets/arnabchaki/laptop-price-prediction?resource=download).
 
 ##  Description
@@ -73,3 +73,19 @@ To load this dataset in your notebook follow this steps below:
 ## Tools Used
 * Jupyter Notebook
 
+## Objectives
+I am trying to confirm the relevance of some specifications on a laptop to be able to predict price.
+
+
+1. The data has 238 rows and 13 column
+2. Displayed the data information to see if the data types are right.
+* ![Screenshot 2024-04-19 at 10 51 49 PM](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/001cd7f8-349c-4a92-8223-144ec8d28b78)
+3. Rounded up the values of the Screen_Size_cm to the nearest 2 decimal number and also displayed the top 5 rows of the data
+  ![Screenshot 2024-04-19 at 10 57 53 PM](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/6cda5815-2cd2-4355-9e55-2a8336697910)
+4. Identifying the missing data in the dataset
+  ![Screenshot 2024-04-19 at 11 02 09 PM](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/e0b6c8a1-55ba-4048-a33d-81a0e8b6fc90)
+5. Counting the number of missing data in the dataset
+  ![Screenshot 2024-04-19 at 11 10 32 PM](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/f74c9b5c-1dfc-4028-9f05-de1a0acdfb7e)
+6. 
+
+  
