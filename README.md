@@ -92,6 +92,17 @@ I am trying to confirm the relevance of some specifications on a laptop to be ab
   |Weight_kg|5|
   
   ![Screenshot 2024-04-19 at 11 10 32 PM](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/f74c9b5c-1dfc-4028-9f05-de1a0acdfb7e)
-6. 
+6. Replacing the missing values in Weight_kg by the average and the Screen_Size_cm by the highest most frequent value
+  ![Screenshot 2024-04-19 at 11 52 02 PM](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/365552fb-b377-4bb7-b6dc-2f1d1782cf4e)
+7. The value of screen_size is in cm which is modified to inches, and the weight_kg is in kg which is also modified to pounds and their names is updated as well
+This is the unit of conversation used:
+1 inch = 2.54 cm
+1 kg   = 2.205 pounds
+![Screenshot 2024-04-20 at 12 00 34 AM](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/9af155f2-ec4a-482c-be97-782540c5b810)
+8. Displaying the number of unique value for each column in the dataframe
+![Screenshot 2024-04-20 at 12 04 43 AM](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/db7b5014-907b-4afa-9ee3-d4c326b38156)
 
-  
+9. Normalizing the CPU_frequency variables so the value ranges from 0 to 1
+    ![Screenshot 2024-04-20 at 12 15 43 AM](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/18a61393-d7ca-4bb5-8f96-edde9c07c216)
+
+10. 
