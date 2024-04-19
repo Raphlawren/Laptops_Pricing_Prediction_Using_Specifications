@@ -70,3 +70,6 @@ To load this dataset in your notebook follow this steps below:
 3. Import and download the csv file  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/Data%20files/automobileEDA.csv'>here</a>.
 
    
+## Tools Used
+* Jupyter Notebook
+
