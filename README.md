@@ -105,4 +105,6 @@ This is the unit of conversation used:
 9. Normalizing the CPU_frequency variables so the value ranges from 0 to 1
     ![Screenshot 2024-04-20 at 12 15 43 AM](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/18a61393-d7ca-4bb5-8f96-edde9c07c216)
 
-10. 
+10. We only care about the prices of laptop, so we divide the prices into 3 bins name: Low, Medium, High.  and also named the new attribute 'Price-binned':
+    ![Screenshot 2024-04-20 at 12 46 43 AM](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/1447cc51-d1e0-4315-a54e-ee6109d78c6c)
+    
