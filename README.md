@@ -111,4 +111,4 @@ This is the unit of conversation used:
 11. Plotting the distribution of each bin between the 3 bins
     ![Screenshot 2024-04-20 at 1 04 38 AM](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/cc336a64-6210-49b6-8777-7aeb01654fd0)
 
-12. 
+12. I transformed the Screen column
