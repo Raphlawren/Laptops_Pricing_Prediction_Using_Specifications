@@ -75,4 +75,9 @@ In FIg 12, I predicted the price of the laptop using just the CPU_frequency, the
 Fig 13:![multipot for linear](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/c0597973-5afa-4619-a21f-efc4ae34d425)
 In Fig 13, I predicted the price of a laptop using this specifications CPU_frequency, Category, GPU, OS, CPU_core, RAM_GB, Storage_GB_SSD and then compared the predicted price with the actual price. We can see multiple specifications as a prediction gives a better prediction than Fig 12. The blue line is the predicted price and the red line is the actual data, but there is still room for improvement.
 
-Fig 14: 
+Fig 14: ![poly1](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/b4913d99-feae-4314-b028-153b8b47bf33)
+![poly2](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/3d3db71e-6ef8-4ff1-8628-e1032b7e7ad4)
+![poly3](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/5931a854-5a84-43ba-9c70-aaa5981e00fc)
+Fitting a polymonial model to give us a a better fitting.
+
+In FIg 14, 
