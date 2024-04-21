@@ -78,6 +78,12 @@ In Fig 13, I predicted the price of a laptop using this specifications CPU_frequ
 Fig 14: ![poly1](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/b4913d99-feae-4314-b028-153b8b47bf33)
 ![poly2](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/3d3db71e-6ef8-4ff1-8628-e1032b7e7ad4)
 ![poly3](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/5931a854-5a84-43ba-9c70-aaa5981e00fc)
-Fitting a polymonial model to give us a a better fitting.
 
-In FIg 14, 
+
+Fitting a polymonial model give us a a better fitting,
+
+In Fig 14, we can see that the line touched more dots compared to Fig 3 which is a good improvement
+
+Fig 15: ![overfit](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/9d2f85f2-1c1f-4b3c-b8e8-d65b1de51d2f)
+
+In Fig 15, we plot a graph to look at the best degree to use to test our data to reduce overfitting and modeling noise
