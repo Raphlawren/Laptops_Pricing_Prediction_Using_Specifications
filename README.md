@@ -91,3 +91,11 @@ In Fig 14, we can see that the line touched more dots compared to Fig 3 which is
 Fig 15: ![overfit](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/9d2f85f2-1c1f-4b3c-b8e8-d65b1de51d2f)
 
 In Fig 15, we plot a graph to look at the best degree to use to test our data to reduce overfitting and modeling noise
+
+
+
+## CONCLUSION
+
+* We can now say CPU_frequency, RAM_GB, Storage_GB_SSD, CPU_core, OS, GPU, Category is a good predictor of price
+
+Thank you.
