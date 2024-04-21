@@ -1,3 +1,7 @@
+![laptops](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/3067b04c-726d-4ff4-a9f7-39bfc07459fa)
+
+
+
 # Exploratory Data Analysis Project: Laptop Pricing Analysis
 
 
