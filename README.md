@@ -66,3 +66,13 @@ In Fig 10,we see that the distribution of price between the different RAM_GB are
 Fig 11:![Storage_gb_ssd](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/aa21c292-73b7-4b80-91d4-e171bc50e6ea)
 
 In Fig 11, we see that the distribution of price between the differnet Storage_GB_SSD  is quite distinct enough to make Storage_GB_SSD a good predictor
+
+
+Fig 12: Using CPU_frequency as a means of prediction ![CPU_freq prediction](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/b4e99e9c-004e-451e-948e-e5c7ed85974a)  
+
+In FIg 12, I predicted the price of the laptop using just the CPU_frequency, the blue line is the predicted price, while the red line is the actual price. we will see they don't fit well, let's continue and check with other specifications
+
+Fig 13:![multipot for linear](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/c0597973-5afa-4619-a21f-efc4ae34d425)
+In Fig 13, I predicted the price of a laptop using this specifications CPU_frequency, Category, GPU, OS, CPU_core, RAM_GB, Storage_GB_SSD and then compared the predicted price with the actual price. We can see multiple specifications as a prediction gives a better prediction than Fig 12. The blue line is the predicted price and the red line is the actual data, but there is still room for improvement.
+
+Fig 14: 
