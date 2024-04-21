@@ -52,13 +52,17 @@ Fig 7: ![GPU](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Spe
 In Fig 7, we see that the distribution of price between the different GPU is quite distinct to make GPU a good predictor of price.
 
 Fig 8:![OS](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/76ee2524-f1c5-44f5-bc25-48040497abf2)
+
 In Fig 8, we see that the distribution of price between the different OS is quite distinct to make OS a good predictor of price.
 
 Fig 9:![CPU_core](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/655e0501-dfaa-4ac0-bf90-fdb8b04f2752)
+
 In Fig 9, we see that the distribution of price between the different CPU_core are quite distinct enough to make CPU_core a good predictor, in such a way that the higher the CPU the higher the price
 
 Fig 10:![RAM_GB](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/8c89f1b6-2119-4793-a912-998ca5fd189f)
+
 In Fig 10,we see that the distribution of price between the different RAM_GB are quite distinct enough to make RAM_GB a good predictor, in such a way that there the higher the RAM_GB the higher the price.
 
 Fig 11:![Storage_gb_ssd](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/aa21c292-73b7-4b80-91d4-e171bc50e6ea)
+
 In Fig 11, we see that the distribution of price between the differnet Storage_GB_SSD  is quite distinct enough to make Storage_GB_SSD a good predictor
