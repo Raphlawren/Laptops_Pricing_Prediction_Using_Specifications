@@ -74,6 +74,7 @@ Fig 10: RAM_GB vs Price
 In Fig 10,we see that the distribution of price between the different RAM_GB are quite distinct enough to make RAM_GB a good predictor, in such a way that there the higher the RAM_GB the higher the price.
 
 Fig 11: Storage_GB vs Price
+
 ![Storage_gb_ssd](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/aa21c292-73b7-4b80-91d4-e171bc50e6ea)
 
 In Fig 11, we see that the distribution of price between the differnet Storage_GB_SSD  is quite distinct enough to make Storage_GB_SSD a good predictor
