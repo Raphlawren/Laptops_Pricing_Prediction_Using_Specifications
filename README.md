@@ -80,7 +80,8 @@ Fig 11: Storage_GB vs Price
 In Fig 11, we see that the distribution of price between the differnet Storage_GB_SSD  is quite distinct enough to make Storage_GB_SSD a good predictor
 
 
-Fig 12: Using CPU_frequency as a means of prediction ![CPU_freq prediction](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/b4e99e9c-004e-451e-948e-e5c7ed85974a)  
+Fig 12: Using CPU_frequency as a means of prediction
+![CPU_freq prediction](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/b4e99e9c-004e-451e-948e-e5c7ed85974a)  
 
 In FIg 12, I predicted the price of the laptop using just the CPU_frequency, the blue line is the predicted price, while the red line is the actual price. we will see they don't fit well, let's continue and check with other specifications
 
