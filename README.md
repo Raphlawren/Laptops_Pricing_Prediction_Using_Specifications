@@ -49,6 +49,7 @@ Weight_pounds vs Price = 5%
 
 
 Fig 6: ![category box](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/f3cb69cf-642a-4636-a091-f7e71949ab3d)
+
 In Fig 6, we see that the distribution of price between the different category are quite distinct enough to make category a good predictor
 
 Fig 7: ![GPU](https://github.com/Raphlawren/Laptops_Pricing_Prediction_Using_Specifications/assets/130583230/b2f3236d-b676-41ac-8a5c-4ff6ed02e8bb)
